@@ -1,5 +1,5 @@
 
-# CompBrain team meeting git tutorial session 
+# CompBrain team meeting Git tutorial session 
 
 
 ![GitHub Workflow Build Status](https://github.com/zaccharieramzi/git-tuto/workflows/Continuous%20testing/badge.svg)
